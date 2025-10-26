@@ -8,3 +8,8 @@ This is fully responsive Home Page designed for the Home Screen of `Resume Analy
 
 ---
 
+## Auth Screen and Pruter API's
+
+[Pruter Docs](https://docs.puter.com/)
+
+---
