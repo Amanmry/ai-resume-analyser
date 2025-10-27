@@ -28,3 +28,8 @@ Created `/upload` route, used `react-drop` zone for file upload
 
 ---
 
+## PDF-Image Conversion & AI Feedback
+
+Created the feedback functionality and logged the `json` response, to check the model response. 
+
+---
